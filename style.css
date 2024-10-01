@@ -1,0 +1,127 @@
+@import url(https://fonts.googleapis.com/css?family=SUSE");
+body {
+  text-align: center;
+  font-family: SUSE;
+  background-color: #EFE6DD;
+  color: #231F20;
+}
+
+p{
+  font-size: 25px;
+}
+
+h1 {
+  font-weight: bold;
+  font-size: 50px;
+}
+
+h2 {
+  font-weight: bold;
+  font-size: 30px;
+  background-color: #BB4430;
+  margin: 10px 150px;
+}
+
+h3 {
+  font-size: 30px;
+  font-weight: bold;
+    background-image: url("https://tastingcorner.us/img/gallery/what-you-should-know-before-toasting-marshmallows-in-the-air-fryer/intro-1706901633.jpg");
+  background-color: rgba(255,255,255,0.6);
+  background-blend-mode: lighten;
+  margin-bottom: 0px;
+}
+
+h4 {
+  font-weight: normal;
+}
+
+h5, button {
+  font-size: 20px;
+  text-align: left;
+}
+
+h1, h4 {
+  background-color: #7EBDC2;
+  margin: 10px 200px;
+}
+
+h6{
+  margin-top: 0px;
+  background-color: #BB4430; 
+  color: #BB4430;
+}
+
+button {
+  background-color: #EFE6DD;
+  border: none;
+  transition-duration: 0.4s;
+  font-weight: bold;
+}
+
+button:hover {
+  background-color: #F3DFA2;
+}
+
+a {
+  color: #231F20;
+}
+
+table {
+  margin: auto;
+}
+
+th, td {
+  padding: 0px 20px;
+}
+
+#recipeCard {
+  background-color:#F3DFA2; 
+  border-radius: 30px;
+  box-shadow: 5px 5px 5px #999; 
+}
+
+img, .caption {
+  box-shadow: 5px 5px 5px #999; 
+}
+
+.caption {
+    margin: 10px 70px;
+}
+
+#clipart{
+  box-shadow: 0px 0px 0px;
+  margin-left: auto;
+}
+
+ol, ul{
+  text-align: left;
+}
+
+.navigation {
+  border-collapse: separate;
+  border-spacing: 70px 0;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+ul a{
+  color: #4E969C;
+}
+
+
+/*
+raisinblack
+color: #231F20;
+
+persianred
+color: #BB4430;
+
+vanilla
+color: #F3DFA2;
+
+linen
+color: #EFE6DD;
+  
+verdigris
+color: #7EBDC2;
+*/
